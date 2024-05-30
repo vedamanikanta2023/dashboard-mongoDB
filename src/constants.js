@@ -1,0 +1,1 @@
+export const mongoDBConnectionString = 'mongodb+srv://manikantavedam:mongo123@learnbe.xx88p9c.mongodb.net/?retryWrites=true&w=majority&appName=learnbe';
